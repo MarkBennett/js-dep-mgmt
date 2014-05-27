@@ -4,7 +4,14 @@ To run this code:
   npm install
   browserify app.js -o bundle.js
 
+Then just open index.html in your browser.
+
 You can require node modules, as well as any of the standard node
 libraries listed here:
 
    https://github.com/substack/node-browserify#compatibility
+
+Many of the node standard libraries which rely on IO don't work
+but by writing your library with this in mind you can abstract out the
+file access into an external library with one version for the browser
+and another for the server.

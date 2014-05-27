@@ -1,0 +1,5 @@
+To see this demo just open index.html in your browser.
+
+In this case all the dependency management is done by hand.
+We download and manage the greeter.js ourselves, along with it's
+dependencies.

@@ -9,6 +9,6 @@
   "author": "Mark Bennett",
   "license": "MIT",
   "dependencies": {
-    "q": "^1.0.1"
+    "greeter": "^0.0.0"
   }
 }
