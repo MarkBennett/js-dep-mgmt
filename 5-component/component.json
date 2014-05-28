@@ -1,0 +1,8 @@
+{
+  "name": "js-dep-component-demo",
+  "description": "A demo of using component.io",
+  "dependencies": {
+    "MarkBennett/greeter": "*",
+    "component/dom": "*"
+  }
+}
