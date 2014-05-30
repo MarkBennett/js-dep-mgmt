@@ -1,0 +1,11 @@
+To run this code:
+
+  npm install -g component
+  component install
+  component build
+
+Then just open index.html in your browser.
+
+Unlike browserify component.io builds JavaScript and CSS.
+
+Component uses the CommonJS module pattern (require / exports).
